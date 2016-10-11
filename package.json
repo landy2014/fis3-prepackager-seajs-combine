@@ -1,0 +1,61 @@
+{
+  "name": "fis3-prepackager-seajs-combine",
+  "version": "1.0.12",
+  "description": "seajs module combine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "seajs",
+    "combine"
+  ],
+  "author": {
+    "name": "linyandi",
+    "email": "wwwlinyandi@126.com"
+  },
+  "bugs": {
+    "url": "https://github.com/landy2014/fis3-prepackager-seajs-combine/issues"
+  },
+  "homepage": "https://github.com/landy2014/fis3-prepackager-seajs-combine",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/landy2014/fis3-prepackager-seajs-combine.git"
+  },
+  "license": "MIT",
+  "gitHead": "a177f7563660a54f7a63c12a0dab4fec4e24171e",
+  "_id": "fis3-prepackager-seajs-combine@1.0.8",
+  "_shasum": "6b5ff8ac3f3b92d33b6e83afff6ce494bd6599c4",
+  "_from": "fis3-prepackager-seajs-combine@latest",
+  "_npmVersion": "2.14.9",
+  "_nodeVersion": "0.12.12",
+  "_npmUser": {
+    "name": "landy2014",
+    "email": "wwwlinyandi@126.com"
+  },
+  "dist": {
+    "shasum": "4dea60a7d385d638ee15cbe743c2a778ae876053",
+    "size": 2791,
+    "noattachment": false,
+    "tarball": "https://registry.npmjs.org/fis3-prepackager-seajs-combine/-/fis3-prepackager-seajs-combine-1.0.6.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "landy2014",
+      "email": "wwwlinyandi@126.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/fis3-prepackager-seajs-combine-1.0.6.tgz_1464575392306_0.7131967414170504"
+  },
+  "directories": {},
+  "publish_time": 1464329009185,
+  "_cnpm_publish_time": 1464329009185,
+  "_resolved": "https://registry.npmjs.org/fis3-prepackager-seajs-combine/-/fis3-prepackager-seajs-combine-1.0.6.tgz",
+  "readme": "ERROR: No README data found!",
+  "dependencies": {
+    "uglify-js": "^2.6.2"
+  },
+  "devDependencies": {}
+}
