@@ -4,12 +4,12 @@ os:
 node_js:
 - "4.4.5"
 - "6.0.0"
-before_install:
-  npm adduser --scrope@landy2014
-  npm config set username landy2014
-  npm config set email wwwlinyandi@126.com
+before_install | :
+- npm adduser --scrope@landy2014
+- npm config set username landy2014
+- npm config set email wwwlinyandi@126.com
 install:
   npm publish
 after_failure:
-  npm version patch
-  npm publish
+- npm version patch
+- npm publish
