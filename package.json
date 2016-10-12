@@ -1,6 +1,6 @@
 {
   "name": "fis3-prepackager-seajs-combine",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "seajs module combine",
   "main": "index.js",
   "scripts": {
