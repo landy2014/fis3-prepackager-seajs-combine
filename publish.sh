@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# npm version patch
 
 if [ $? -eq 0 ]
 then

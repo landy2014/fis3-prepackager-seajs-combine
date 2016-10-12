@@ -5,9 +5,11 @@ node_js:
 - "4.4.5"
 - "6.0.0"
 before_script:
-# - npm adduser --scrope@landy2014
-- npm config set username landy2014
-- npm config set email wwwlinyandi@126.com
+- npm adduser  <<EOF
+- "landy2014"
+- "linyandi2010"
+- "wwwlinyandi@126.com"
+- EOF
 script:
   npm publish
 after_failure:
