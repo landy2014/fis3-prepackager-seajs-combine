@@ -9,7 +9,6 @@ before_scripts:
   npm config set email wwwlinyandi@126.com
 install:
   npm publish
-after_succ
 after_failure:
   npm version patch
   npm publish
